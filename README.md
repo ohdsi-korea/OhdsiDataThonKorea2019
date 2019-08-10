@@ -13,4 +13,4 @@
 
 [슬라이드](/documents/Datathon_Kor_Ajou2019.pdf)
 
-[일산병원 CDM 사용자 가이드](/documents/일산병원CDM사용자가이드.pdf)
+[일산병원 CDM 사용자 가이드](/documents/CDMGuidelineByIlsanHospital.pdf)
