@@ -6,9 +6,11 @@
 # Useful Link
 
 [Forum Thread](https://forums.ohdsi.org/t/ohdsi-datathon-in-korea-2019/7626)
+
 [강의 영상](https://www.youtube.com/channel/UCzq1esoLLQdDZ1EeCyn8qWg?view_as=subscriber)
 
 # 참고자료
 
 [슬라이드](/documents/Datathon_Kor_Ajou2019.pdf)
+
 [일산병원 CDM 사용자 가이드](/documents/일산병원CDM사용자가이드.pdf)
