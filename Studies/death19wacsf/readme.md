@@ -3,13 +3,13 @@ Gender impact on clinical outcome of patients undergoing percutaneous coronary i
 
 Authors
 ============
-<min8684@hanmail.net>
+Gyung-Min Park<min8684@hanmail.net>
 
-<kkoma3002@gmail.com>
+EUN-AE KANG<kkoma3002@gmail.com>
 
-<hyeyeon@evidnet.co.kr>
+Hyeyeon Cho<hyeyeon@evidnet.co.kr>
 
-<0733286@uuh.ulsan.kr>
+Hyeji Lee<0733286@uuh.ulsan.kr>
 
 Study Protocols
 ============
