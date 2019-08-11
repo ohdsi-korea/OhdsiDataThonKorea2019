@@ -86,7 +86,9 @@ How to run
 
 2. In 'R', use the following code to install the MetforminVsSulfonylurea package:
 
-  To do: Need to provide some instructions for installing the study package itself.
+  ```r
+  devtools::install_github("ohdsi-korea/OhdsiDataThonKorea2019/Studies/MetforminVsSulfonylurea", args = "--no-multiarch")
+	```
 
 3. Once installed, you can execute the study by modifying and using the following code:
 
